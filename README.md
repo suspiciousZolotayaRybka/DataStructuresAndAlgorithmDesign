@@ -15,6 +15,7 @@ A program that always connects a line among the right uppermost dots, demonstrat
 ![TestCase_1_1](https://github.com/suspiciousZolotayaRybka/DataStructuresAndAlgorithmDesign/assets/116288117/ba1f8e2d-5685-4549-9f17-53b49028660f)
 
 A program that analyzes a binary tree in preorder representation and returns whether or not the tree is balanced, then creates a balanced binary tree
+
 ![TestCase345](https://github.com/suspiciousZolotayaRybka/DataStructuresAndAlgorithmDesign/assets/116288117/e7841fd7-c150-404a-9cee-db9f7fe753bd)
 ![TestCase2](https://github.com/suspiciousZolotayaRybka/DataStructuresAndAlgorithmDesign/assets/116288117/4f5cd5dc-8eb2-4e6b-9912-146b4e8b2a99)
 ![TestCase1](https://github.com/suspiciousZolotayaRybka/DataStructuresAndAlgorithmDesign/assets/116288117/140423cd-ca24-43a6-b4ff-fd3b1cb03893)
