@@ -1,6 +1,8 @@
 This repository contains programs aimed at improving my skills in OOP principles, data structures, and
 designing algorithms around discrete mathematics principles. Attached are photos of the programs included in the repository.
 
+Note: In prograama that plot points, hovering over the point displays its (x, y) coordinates, and right clicking a point removes it.
+
 A program that analyzes a Java File to determine if it has matching delimiters, using a stack data structure
 ![Asg1_TestCase2_2](https://github.com/suspiciousZolotayaRybka/DataStructuresAndAlgorithmDesign/assets/116288117/c8da3745-2d2a-413d-a21d-6193ea8017dd)
 ![Asg1_TestCase2_1](https://github.com/suspiciousZolotayaRybka/DataStructuresAndAlgorithmDesign/assets/116288117/714870f6-6fe6-4c47-b1b1-ee40cacfa027)
