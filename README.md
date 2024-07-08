@@ -1,4 +1,4 @@
-This repository contains programs aimed at improving my skills in OOP principles, data structures, and
+This repository contains programs aimed at improving my skills in OOP principles, data structures, python fundamentals, monte carlo simulations, and
 designing algorithms around discrete mathematics principles. Attached are photos of the programs included in the repository.
 
 Note: In prograama that plot points, hovering over the point displays its (x, y) coordinates, and right clicking a point removes it.
